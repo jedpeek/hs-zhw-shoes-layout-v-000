@@ -29,12 +29,14 @@
 }
 .col-1{
   display: block;
+  column-width: auto;
   margin: 1%;
   float: left;
 }
 
 .col-2 {
   display:block;
+  column-width: auto;
   margin: 1%;
 }
 
