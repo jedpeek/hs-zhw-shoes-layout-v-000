@@ -32,10 +32,9 @@
     width: 33.33%;
 }
 
-.shoe-column {
+.col-1 {
     float: left;
     width: 31.33%;
     margin-top: 2%;
-    margin-left: 2%;
-
+    margin-right: 2%;
 }
