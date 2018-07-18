@@ -36,6 +36,7 @@
 .col-2 {
   display:block;
   margin: 1%;
+  float: right;
 }
 
 .col-3 {
