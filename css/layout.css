@@ -27,7 +27,7 @@
 
 }
 .col-1{
-  display: block;
+  display: inline;
   column-width: 32%;
   column-span: 1;
   margin: 1%;
