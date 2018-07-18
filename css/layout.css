@@ -41,8 +41,9 @@
 }
 
 .col-3 {
-  display: inline;
+  display:;
   column-width: 32%;
   margin: 1%;
   float: right;
+  clear: both;
 }
