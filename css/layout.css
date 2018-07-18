@@ -24,8 +24,7 @@
 
 /* Posititoning Classes */
 #details{
-  col-count: 3;
-  column-gap: normal;
+
 }
 .col-1{
   display: block;
