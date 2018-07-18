@@ -28,7 +28,7 @@
   column-gap: normal;
 }
 .col-1{
-  display: inline;
+  display: block;
   width: 32%
   margin: 1%;
 }
