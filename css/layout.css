@@ -42,7 +42,7 @@
 }
 
 .col-3 {
-  display:block;
+  display:inline;
   column-span: 1;
   column-width: 32%;
   margin: 1%;
