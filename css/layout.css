@@ -26,6 +26,11 @@
 #details{
 
 }
+
+.column {
+    float: left;
+    width: 33.33%;
+}
 .col-1{
   display: inline;
   width: 33%;
