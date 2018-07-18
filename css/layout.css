@@ -35,6 +35,7 @@
 .col-2 {
   display:inline;
   width: 33%;
+  clear:both;
 }
 
 .col-3 {
