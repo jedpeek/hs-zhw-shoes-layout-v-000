@@ -30,18 +30,21 @@
 .col-1{
   display: block;
   column-width: 32%;
+  column-span: 1;
   margin: 1%;
   float: left;
 }
 
 .col-2 {
   display:block;
+  column-span: 1;
   column-width: 32%;
   margin: 1%;
 }
 
 .col-3 {
-  display:;
+  display:block;
+  column-span: 1;
   column-width: 32%;
   margin: 1%;
   float: right;
