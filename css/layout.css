@@ -23,6 +23,9 @@
 }
 
 /* Posititoning Classes */
+#details{
+  col-count: 4;
+}
 .col-1{
   display: inline;
   width: 32%
