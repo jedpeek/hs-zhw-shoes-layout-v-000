@@ -31,22 +31,8 @@
     float: left;
     width: 33.33%;
 }
-.col-1{
-  display: inline;
-  width: 33%;
-  float: left;
-}
 
-.col-2 {
-  display:inline;
-  width: 33%;
-  clear:both;
-}
-
-.col-3 {
-  display:inline;
-  width: 33%;
-  float: right;
-  clear:both;
-
+.shoe-column {
+    float: left;
+    width: 33.33%;
 }
