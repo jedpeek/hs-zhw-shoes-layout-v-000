@@ -44,3 +44,9 @@
   float: left;
   width: 31.33%
 }
+
+.col-biggest {
+  float:left;
+  width:98%;
+  margin: 2%;
+}
