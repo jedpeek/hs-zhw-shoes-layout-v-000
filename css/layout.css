@@ -39,6 +39,7 @@
 
 .col-3 {
   display:inline;
+  width: 30%;
   float: right;
 
 }
