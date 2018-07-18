@@ -38,3 +38,14 @@
     margin-top: 2%;
     margin-right: 2%;
 }
+
+.col-big {
+  float:left;
+  width: 62%;
+  margin-right: 1%;
+}
+
+.col-small {
+  float: left;
+  width: 31.33%
+}
